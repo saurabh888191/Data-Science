@@ -1,2 +1,2 @@
 # Data-Science
-All Data Science related Libraries NoteBook and projects are there.
+All Data Science related Libraries Practice NoteBook and dataset and related projects are there.
